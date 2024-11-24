@@ -1,5 +1,4 @@
 import React from "react";
-import Session09 from "./Session09";
 import Product from "./Product";
 
 export default function ListProduct() {
