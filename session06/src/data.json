@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "productName": "Samsung Galaxy S24 Ultra",
+    "price": 45000000,
+    "stock": 10,
+    "image": "https://cdn.hoanghamobile.com/i/previewV2/Uploads/2024/01/16/s24-ultra-den.png"
+  },
+  {
+    "id": 2,
+    "productName": "Samsung Galaxy Z Fold6",
+    "price": 40000000,
+    "stock": 10,
+    "image": "https://cdn.hoanghamobile.com/i/previewV2/Uploads/2024/07/10/z-fold6-pink-5.png"
+  },
+  {
+    "id": 3,
+    "productName": "Samsung Galaxy Z Flip6",
+    "price": 25000000,
+    "stock": 10,
+    "image": "https://cdn.hoanghamobile.com/i/previewV2/Uploads/2024/07/10/z-flip6-blue-10.png"
+  },
+  {
+    "id": 4,
+    "productName": "iPhone 16 Pro Max",
+    "price": 40000000,
+    "stock": 10,
+    "image": "https://cdn.hoanghamobile.com/i/previewV2/Uploads/2024/09/10/iphone-16-pro-sa-mac-1.png"
+  },
+  {
+    "id": 5,
+    "productName": "iPhone 16 Plus",
+    "price": 30000000,
+    "stock": 10,
+    "image": "https://cdn.hoanghamobile.com/i/previewV2/Uploads/2024/09/10/iphone-16-hong-1.png"
+  },
+  {
+    "id": 6,
+    "productName": "NUBIA REDMAGIC 7 PUSAR",
+    "price": 25000000,
+    "stock": 10,
+    "image": "https://cdn.hoanghamobile.com/i/previewV2/Uploads/2022/07/06/image-removebg-preview.png"
+  }
+]
